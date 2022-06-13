@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_baseline_coronavirus_24"
+        android:title="Covid-19 Cases World-Wide Stats"/>
+
+    <item android:id="@+id/menu_bot"
+        android:icon="@drawable/ic_baseline_perm_identity_24"
+        android:title="Covid-19 related FAQs Chatbot"/>
+    <item android:id="@+id/menu_vaccination"
+        android:icon="@drawable/ic_baseline_design_services_24"
+        android:title="Vaccination Centers Near me"/>
+
+
+    <item android:id="@+id/menu_about_team"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        android:title="About Team"/>
+
+
+
+
+
+
+
+</menu>
